@@ -4,3 +4,6 @@ YOLO!
 <br>
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=umangty)](#)
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=umangty)
