@@ -1,1 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangty)](https://github.com/umangty/github-readme-stats?count_private=true&show_icons=true)
+YOLO!
+
+[![My Skills](https://skillicons.dev/icons?i=linux,js,mongodb,go,postgres)](#)
+<br>
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=umangty)](#)
