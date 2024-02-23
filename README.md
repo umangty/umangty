@@ -1,4 +1,5 @@
-YOLO!
+Hi, I’m Umang.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,js,mongodb,go,postgres)](#)
-<br>
+I’m interested in building products and systems that work at scale.
+
+Find me on Twitter - [@umangTiwary](https://twitter.com/umangTiwary)
