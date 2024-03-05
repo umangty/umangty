@@ -1,5 +1,5 @@
 Hi, I’m Umang.
 
-I’m interested in building products and systems that work at scale.
+I find interest building products and systems that can work at scale. Prev [@smallcase](smallcase.com).
 
 Find me on Twitter - [@umangTiwary](https://twitter.com/umangTiwary)
